@@ -2,3 +2,4 @@
 * text=auto
 t-test filter=lfs diff=lfs merge=lfs -text
 ANOVA filter=lfs diff=lfs merge=lfs -text
+ANOVA.pdf filter=lfs diff=lfs merge=lfs -text
